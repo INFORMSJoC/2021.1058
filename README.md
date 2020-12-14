@@ -13,7 +13,7 @@ The software in this repository is a snapshot (last revised on 2020/07/20) of th
 
 The package also includes an implementation of the sum-of-squares optimization approach based on non-symmetric conic optimization and polynomial interpolants presented in:
 
-D. Papp and S. Yıldız. Sum-of-squares optimization without semidefinite programming. [https://arxiv.org/abs/1712.01792](https://arxiv.org/abs/1712.01792)
+D. Papp and S. Yıldız. Sum-of-squares optimization without semidefinite programming. *SIAM Journal on Optimization* 29(1), 2019, pp. 822-851. [https://doi.org/10.1137/17M1160124](https://doi.org/10.1137/17M1160124)
 
 ## Citing alfonso
 
