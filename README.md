@@ -23,7 +23,7 @@ WILL INSERT DOI/LINK HERE
 
 ## Installation
 
-`alfonso` is entirely written in Matlab m-code, and is thus portable and easy to install: unzip the downloaded files in any directory and add the alfonso directory to the Matlab (or Octave) path. ADDITIONAL DEPENDENCIES???
+`alfonso` is entirely written in Matlab m-code. To install, unzip the downloaded files in any directory and add the src directory to the Matlab (or Octave) path. ADDITIONAL DEPENDENCIES (IN SOME EXAMPLES).
 
 ## Additional information
 
