@@ -5,7 +5,7 @@
 %
 % Authors:  
 %          David Papp       <dpapp@ncsu.edu>
-%          Sercan Yildiz    <syildiz@email.unc.edu>  
+%          Sercan Yildiz    <syildiz@qontigo.com>  
 %
 % Date: 06/14/2018
 %

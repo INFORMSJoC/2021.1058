@@ -19,7 +19,7 @@
 %
 % Authors:  
 %          David Papp       <dpapp@ncsu.edu>
-%          Sercan Yildiz    <syildiz@email.unc.edu>  
+%          Sercan Yildiz    <syildiz@qontigo.com>  
 %
 % Version: 2020/07/20
 % 
