@@ -9,7 +9,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [2-Clause BSD 
 
 The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported on in the paper [alfonso: Matlab package for nonsymmetric conic optimization](WILL INSERT LINK HERE) by D. Papp and S. Yildiz.
 
-**Important: This code is being developed on an on-going basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.**
+**Important: This code is being developed on an ongoing basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.**
 
 The package also includes an implementation of the sum-of-squares optimization approach based on non-symmetric conic optimization and polynomial interpolants presented in:
 

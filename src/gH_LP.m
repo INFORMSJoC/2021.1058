@@ -2,6 +2,13 @@
 % nonnegative orthant, using the standard logarithmic barrier. It requires
 % no parameters.
 % --------------------------------------------------------------------------
+%
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to conditions.
+% See LICENSE for details.
+%
+% --------------------------------------------------------------------------
 % USAGE of "gH_LP"
 % [in, g, H, L] = gH_LP(x)
 % --------------------------------------------------------------------------

@@ -5,6 +5,14 @@
 %
 % It is parametrized by the vector a which must satisfy sum(a) = 1 and
 % a(:) > 0.
+%
+% --------------------------------------------------------------------------
+%
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to conditions.
+% See LICENSE for details.
+%
 % --------------------------------------------------------------------------
 % USAGE of "gH_DGPow"
 % [in, g, H, L] = gH_DGPow(xz, a)

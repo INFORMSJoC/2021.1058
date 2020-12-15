@@ -4,6 +4,13 @@
 %
 % It requires no parameters and it is always three-dimensional.
 % --------------------------------------------------------------------------
+%
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to conditions.
+% See LICENSE for details.
+%
+% --------------------------------------------------------------------------
 % USAGE of "gH_Exp"
 % [in, g, H, L] = gH_Exp(x)
 % --------------------------------------------------------------------------

@@ -12,7 +12,10 @@
 % nonsymmetric convex conic optimization". Available at 
 % https://arxiv.org/abs/1712.00492.
 % -------------------------------------------------------------------------
-% Copyright (C) 2018 David Papp and Sercan Yildiz.
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to conditions.
+% See LICENSE for details.
 %
 % Authors:  
 %          David Papp       <dpapp@ncsu.edu>
