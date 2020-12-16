@@ -6,7 +6,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [2-Clause BSD License](LICENSE).
 
-The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported in the paper [alfonso: Matlab package for nonsymmetric conic optimization](WILL INSERT LINK HERE) by Dávid Papp and Sercan Yildiz.
+The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported in the paper [alfonso: Matlab package for nonsymmetric conic optimization](WILL INSERT LINK HERE) by Dávid Papp and Sercan Yıldız.
 
 **Important: This code is being developed on an ongoing basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.**
 
