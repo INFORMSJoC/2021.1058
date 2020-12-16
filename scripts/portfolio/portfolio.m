@@ -14,11 +14,16 @@ function results = portfolio(f, n)
 % results:              final solution and iteration statistics
 %                       see alfonso.m for details
 % -------------------------------------------------------------------------
-% Copyright (C) 2020 David Papp and Sercan Yildiz.
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to the terms of the
+% 2-Clause BSD License. You should have received a copy of the license along
+% with this program. If not, see <https://opensource.org/licenses/BSD-2-Clause>.
 %
 % Authors:  
 %          David Papp       <dpapp@ncsu.edu>
-%          Sercan Yildiz    <syildiz@qontigo.com>  
+%          Sercan Yildiz    <syildiz@qontigo.com>   
+% -------------------------------------------------------------------------
 %
 % Date: 07/20/2020
 % -------------------------------------------------------------------------

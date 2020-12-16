@@ -3,8 +3,19 @@ function e_design()
 % Mosek 9.2.6 and SCS 2.1.7
 %
 % -------------------------------------------------------------------------
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to the terms of the
+% 2-Clause BSD License. You should have received a copy of the license along
+% with this program. If not, see <https://opensource.org/licenses/BSD-2-Clause>.
+%
+% Authors:  
+%          David Papp       <dpapp@ncsu.edu>
+%          Sercan Yildiz    <syildiz@qontigo.com>   
+% -------------------------------------------------------------------------
 % EXTERNAL PACKAGES CALLED IN THIS FILE: YALMIP, Mosek, SCS
 % Because of these dependencies, this example will NOT run in Octave.
+% -------------------------------------------------------------------------
 
 diary('e_design_results.txt');
 datetime()
@@ -59,6 +70,17 @@ function [in, g, H, L] = ex_oracle_design(tx, pars)
 % pars:                 structure with a single field pars.v
 %                       pars.v is a two-dimensional array whose ith column
 %                       v(:,i) represents the ith design vector (i=1,...,p)
+% -------------------------------------------------------------------------
+% Copyright (C) 2018-2020 David Papp and Sercan Yildiz.
+%
+% Redistribution and use of this software are subject to the terms of the
+% 2-Clause BSD License. You should have received a copy of the license along
+% with this program. If not, see <https://opensource.org/licenses/BSD-2-Clause>.
+%
+% Authors:  
+%          David Papp       <dpapp@ncsu.edu>
+%          Sercan Yildiz    <syildiz@qontigo.com>   
+% -------------------------------------------------------------------------
 
 t = tx(1);
 x = tx(2:end);
