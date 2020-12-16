@@ -998,7 +998,7 @@ return
 function say_hello(opts)
 
     if opts.verbose
-        fprintf('\n*** alfonso (ver. 2020/07/20) by David Papp and Sercan Yildiz, (c) 2018.\n');
+        fprintf('\n*** alfonso (ver. 2020/07/20) by David Papp and Sercan Yildiz, (c) 2018-2020.\n');
         if opts.predLineSearch
             fprintf('step size: line search,  ');
         else
