@@ -34,6 +34,15 @@ Our code has been developed and tested with Chebfun version 5.5.0.
 
 3. `partitions` (a function by John D'Errico to compute all partitions of an integer): [download](https://www.mathworks.com/matlabcentral/fileexchange/12009-partitions-of-an-integer) to any directory and add its directory to the Matlab path.
 
+## Contents
+
+* `src`: source files for alfonso. Use `alfonso.m` for the oracle interface, `alfonso_simple` for the simple interface.
+* `scripts`: contains a number of optimization problems solved with `alfonso` or `alfonso_simple`:
+  * `scripts/random_lp`: solves a random linear programming problem using either interface.
+  * `scripts/exp_design`: solves an optimal design of experiments problem.
+  * `scripts/poly_opt`: solves various polynomial optimization problems using sum-of-squares optimization.
+  * `scripts/portfolio`: solves a mean-risk portfolio optimization problem with a factor risk model and market impact. 
+
 ## Additional information
 
 This package is based on a infeasible-start primal-dual interior-point algorithm that originally appeared in:
