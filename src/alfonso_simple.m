@@ -43,7 +43,7 @@
 %          David Papp       <dpapp@ncsu.edu>
 %          Sercan Yildiz    <syildiz@qontigo.com>  
 %
-% Date: 07/20/2020
+% Version: 07/20/2020
 % 
 % This code has been developed and tested with Matlab R2018a.
 % -------------------------------------------------------------------------

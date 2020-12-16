@@ -3,7 +3,7 @@
 % Cleve Moler from a MATLAB Central Blog post which is available at
 % https://blogs.mathworks.com/cleve/2015/03/02/triple-precision-accumlated-inner-product/
 % -------------------------------------------------------------------------
-% Date: 06/14/2018
+% Version: 06/14/2018
 %
 % This code has been developed and tested with Matlab R2016b.
 % -------------------------------------------------------------------------
