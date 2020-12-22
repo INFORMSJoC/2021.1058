@@ -1,4 +1,4 @@
-# scripts/poly_opt
+# examples/poly_opt
 
 * `polyOpt.m`
 This code formulates and solves the *polynomial optimization* problem

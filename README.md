@@ -8,7 +8,7 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 
 The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported in the paper [alfonso: Matlab package for nonsymmetric conic optimization](WILL INSERT LINK HERE) by Dávid Papp and Sercan Yıldız.
 
-**Important: This code is being developed on an ongoing basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.**
+**Important: This code is being developed on an ongoing basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.** This repository is a snapshot of that project, taken on 2020-Aug-06 from at [`commit 77300b05ea9b5fa53eef6a6a7ea6a518063a7f07`](https://github.com/dpapp-github/alfonso/commit/77300b05ea9b5fa53eef6a6a7ea6a518063a7f07).
 
 The package also includes an implementation of the sum-of-squares optimization algorithm based on non-symmetric conic optimization and polynomial interpolants presented in:
 
@@ -24,7 +24,7 @@ WILL INSERT DOI/LINK HERE
 
 `alfonso` is entirely written in Matlab m-code. To install, unzip the downloaded files in any directory and add the `src` subdirectory to the Matlab (or Octave) path.
 
-The polynomial optimization (sum-of-squares) examples in `scripts/poly_opt/` require the following additional software:
+The polynomial optimization (sum-of-squares) examples in `examples/poly_opt/` require the following additional software:
 
 1. `Padua2DM` (a Matlab/Octave package by M. Caliari, S. De Marchi, A. Sommariva, and M. Vianello for interpolation and
 cubature at the Padua points): [download](http://profs.sci.univr.it/~caliari/software.htm) to any directory and add its directory to the Matlab path.
@@ -37,11 +37,11 @@ Our code has been developed and tested with Chebfun version 5.5.0.
 ## Contents
 
 * `src`: source files for alfonso. Use `alfonso.m` for the oracle interface, `alfonso_simple` for the simple interface.
-* `scripts`: contains a number of optimization problems solved with `alfonso` or `alfonso_simple`:
-  * `scripts/random_lp`: solves a random linear programming problem using either interface.
-  * `scripts/exp_design`: solves an optimal design of experiments problem.
-  * `scripts/poly_opt`: solves various polynomial optimization problems using sum-of-squares optimization.
-  * `scripts/portfolio`: solves a mean-risk portfolio optimization problem with a factor risk model and market impact. 
+* `examples`: contains a number of optimization problems solved with `alfonso` or `alfonso_simple`:
+  * `examples/random_lp`: solves a random linear programming problem using either interface.
+  * `examples/exp_design`: solves an optimal design of experiments problem.
+  * `examples/poly_opt`: solves various polynomial optimization problems using sum-of-squares optimization.
+  * `examples/portfolio`: solves a mean-risk portfolio optimization problem with a factor risk model and market impact. 
 
 ## Additional information
 
