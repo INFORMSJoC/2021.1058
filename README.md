@@ -6,7 +6,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [2-Clause BSD License](LICENSE).
 
-The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported in the paper [alfonso: Matlab package for nonsymmetric conic optimization](WILL INSERT LINK HERE) by Dávid Papp and Sercan Yıldız.
+The software in this repository is a snapshot (last revised on 2020/07/20) of the software that was used in the research reported in the paper [alfonso: Matlab package for nonsymmetric conic optimization](https://doi.org/10.1287/ijoc.2021.1058) by Dávid Papp and Sercan Yıldız.
 
 **This code is being developed on an ongoing basis at [https://github.com/dpapp-github/alfonso](https://github.com/dpapp-github/alfonso). Please go there if you would like to get a more recent version or would like support.** This repository is a snapshot of that project, taken on 2020-Dec-22 at [`commit bf57bce9eeb74824f1d873bb6cc02c896995d6be`](https://github.com/dpapp-github/alfonso/commit/bf57bce9eeb74824f1d873bb6cc02c896995d6be).
 
@@ -16,9 +16,19 @@ The package also includes an implementation of the sum-of-squares optimization a
 
 ## Citing alfonso
 
-To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.TBD) and the software itself:
+To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.2021.1058) and the software itself.
+Below is the BibTex for citing this version of the code.
 
-WILL INSERT DOI/LINK HERE 
+```
+@article{alfonso,
+  author =        {D. Papp and S. Yıldız},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{alfonso} Version v2021.1058},
+  year =          {2021},
+  doi =           {10.5281/zenodo.TBD},
+  url =           {https://github.com/INFORMSJoC/2020.1022},
+}  
+```
 
 ## Installation
 
