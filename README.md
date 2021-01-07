@@ -16,7 +16,10 @@ The package also includes an implementation of the sum-of-squares optimization a
 
 ## Citing alfonso
 
-To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.2021.1058) and the software itself.
+To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.2021.1058) and the software itself, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/320941398.svg)](https://zenodo.org/badge/latestdoi/320941398)
+
 Below is the BibTex for citing this version of the code.
 
 ```
@@ -25,7 +28,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{alfonso} Version v2021.1058},
   year =          {2021},
-  doi =           {10.5281/zenodo.TBD},
+  doi =           {10.5281/zenodo.4422116},
   url =           {https://github.com/INFORMSJoC/2020.1022},
 }  
 ```
