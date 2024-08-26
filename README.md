@@ -16,9 +16,7 @@ The package also includes an implementation of the sum-of-squares optimization a
 
 ## Citing alfonso
 
-To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.2021.1058) and the software itself, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/320941398.svg)](https://zenodo.org/badge/latestdoi/320941398)
+To cite alfonso, please cite the [research article](https://doi.org/10.1287/ijoc.2021.1058) and the software itself, using the [software DOI](https://doi.org/10.1287/ijoc.2021.1058.cd)
 
 Below is the BibTex for citing this version of the code.
 
